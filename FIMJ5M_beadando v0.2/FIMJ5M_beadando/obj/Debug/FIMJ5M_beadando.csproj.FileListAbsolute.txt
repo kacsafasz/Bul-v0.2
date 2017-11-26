@@ -1,0 +1,28 @@
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe.config
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.pdb
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csprojResolveAssemblyReference.cache
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.exe
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.pdb
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csprojResolveAssemblyReference.cache
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.exe
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.pdb
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe.config
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe
+C:\Users\Szabó László\source\repos\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.pdb
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe.config
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.pdb
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csprojResolveAssemblyReference.cache
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.exe
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando másolata\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.pdb
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csprojResolveAssemblyReference.cache
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.exe
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\obj\Debug\FIMJ5M_beadando.pdb
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe.config
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.exe
+C:\Users\Arrrr!\Documents\Egyetem\Szoftvertervezés I\Egyéb I. Féléves Beadandók\FIMJ5M_beadando v0.2\FIMJ5M_beadando\bin\Debug\FIMJ5M_beadando.pdb
